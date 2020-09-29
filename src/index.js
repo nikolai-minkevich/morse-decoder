@@ -1,4 +1,4 @@
-const MORSE_TABLE = {
+const MORSE_TABLE = { 
     '.-':     'a',
     '-...':   'b',
     '-.-.':   'c',
